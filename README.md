@@ -21,7 +21,6 @@ To run this project, you'll need to have Python installed along with the followi
 - `nltk`
 - `matplotlib`
 - `seaborn`
-- `keras`
 - `sklearn`
 - `gensim`
 - `wordcloud`
@@ -49,14 +48,23 @@ text: The tweet text.
 The preprocessing steps include:
 
 -Dropping unnecessary columns.
+
 -Mapping sentiment labels to positive and negative.
+
 -Removing duplicates.
+
 -Shuffling and sampling the dataset for balanced classes.
+
 -Lowercasing the text.
+
 -Removing stop words, emails, URLs, punctuations, and numbers.
+
 -Tokenization and lemmatization.
+
 -Visualizing sentiment distribution using bar plots.
+
 -Generating word clouds for positive and negative sentiments.
+
 -Modeling
 
 The project uses the following models:
@@ -70,6 +78,7 @@ TF-IDF:
 
 ## Results
 Accuracy using Bag of Words: 75.63%
+
 Accuracy using TF-IDF: 76.04%
 
 ## Contributing
