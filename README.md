@@ -1,4 +1,4 @@
-# Text Analysis P
+# Text Analysis
 
 ## Overview
 This project performs sentiment analysis on a large dataset of tweets using text preprocessing and machine learning techniques. The dataset is processed to classify sentiments as positive or negative.
