@@ -25,10 +25,9 @@ To run this project, you'll need to have Python installed along with the followi
 - `gensim`
 - `wordcloud`
 
-You can install the required libraries using pip:
+You can install the required libraries using pip
 
-pip install numpy pandas nltk matplotlib seaborn keras scikit-learn gensim wordcloud
-----
+
 ## Usage
 Clone the repository:
 
